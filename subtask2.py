@@ -16,3 +16,4 @@ if ( num == 0):
         print ("The minimum number is " + str(minimum)+ ".")
         print ("The summation of all numbers is " + str(Sum) + ".")
         print ("Average is " + str(Sum / n))
+# it looks like I learned how to use git today
